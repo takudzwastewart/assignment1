@@ -1,0 +1,29 @@
+body{
+    
+    background-color:white;
+}
+table{
+    width: 50%;
+    margin: auto;
+   padding: 5 0;
+    border-bottom: 3px solid black;
+    background:white;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    border: none;
+    width: 20%;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+   color: BLACK;
+   background: whitesmoke;
+   margin: 0 0 55px 55px;
+   text-align: side;
+   font-size: small;
+}
